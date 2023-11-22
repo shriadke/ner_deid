@@ -1,0 +1,12 @@
+transformers
+ipython
+ipykernel
+notebook
+jupyter
+torch
+loguru
+datasets
+wandb
+evaluate
+presidio-evaluator
+transformers-interpret
